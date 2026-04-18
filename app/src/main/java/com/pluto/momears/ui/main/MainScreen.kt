@@ -46,7 +46,7 @@ fun MainScreen(
 @Composable
 internal fun MainScreen(data: List<String>, modifier: Modifier = Modifier) {
   var isRecording by remember { mutableStateOf(false) }
-  val streamer = remember { AudioStreamer("10.0.2.2", 5000) }
+  val streamer = remember { AudioStreamer("80.225.235.239", 5000) }
 
   DisposableEffect(Unit) {
     onDispose {
