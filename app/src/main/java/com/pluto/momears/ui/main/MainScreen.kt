@@ -1,4 +1,4 @@
-package com.example.momears.ui.main
+package com.pluto.momears.ui.main
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Box
@@ -19,9 +19,9 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation3.runtime.NavKey
-import com.example.momears.data.DefaultDataRepository
-import com.example.momears.theme.MyApplicationTheme
-import com.example.momears.AudioStreamer
+import com.pluto.momears.data.DefaultDataRepository
+import com.pluto.momears.theme.MyApplicationTheme
+import com.pluto.momears.AudioStreamer
 
 @Composable
 fun MainScreen(

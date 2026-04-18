@@ -1,6 +1,6 @@
-package com.example.momears.ui.main
+package com.pluto.momears.ui.main
 
-import com.example.momears.data.DataRepository
+import com.pluto.momears.data.DataRepository
 import junit.framework.TestCase.assertEquals
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.first

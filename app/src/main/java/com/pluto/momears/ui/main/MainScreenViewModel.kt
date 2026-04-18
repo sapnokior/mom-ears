@@ -1,9 +1,9 @@
-package com.example.momears.ui.main
+package com.pluto.momears.ui.main
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.momears.data.DataRepository
-import com.example.momears.ui.main.MainScreenUiState.Success
+import com.pluto.momears.data.DataRepository
+import com.pluto.momears.ui.main.MainScreenUiState.Success
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.catch

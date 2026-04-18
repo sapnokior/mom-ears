@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.momears"
+    namespace = "com.pluto.momears"
     compileSdk = 36
     defaultConfig {
-        applicationId = "com.example.momears"
+        applicationId = "com.pluto.momears"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

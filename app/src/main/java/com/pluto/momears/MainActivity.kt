@@ -1,4 +1,4 @@
-package com.example.momears
+package com.pluto.momears
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,7 +8,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import com.example.momears.theme.MyApplicationTheme
+import com.pluto.momears.theme.MyApplicationTheme
 
 import android.Manifest
 import android.content.pm.PackageManager

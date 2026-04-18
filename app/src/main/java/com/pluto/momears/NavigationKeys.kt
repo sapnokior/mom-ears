@@ -1,4 +1,4 @@
-package com.example.momears
+package com.pluto.momears
 
 import androidx.navigation3.runtime.NavKey
 import kotlinx.serialization.Serializable
